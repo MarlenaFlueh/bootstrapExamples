@@ -1,0 +1,11 @@
+#landing-page {
+  background-image: url('/img/typ-im-hemd.jpg');
+  height: 70vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
