@@ -1,0 +1,11 @@
+#landing-page {
+  background-image: url("/img/husky1.jpeg");
+  height: 70vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.overlay {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
