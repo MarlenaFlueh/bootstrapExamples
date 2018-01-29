@@ -1,0 +1,7 @@
+#landing-page {
+  background-image: url("/img/moon4.jpg");
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
